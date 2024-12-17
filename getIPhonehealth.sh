@@ -1,3 +1,4 @@
+#!/bin/bash
 if idevicediagnostics -h     >/dev/null
 then
 echo "Toolkit present"

@@ -39,3 +39,5 @@ if its showing less then 92 % then its fake or manipulated battery.
 # Regards Faizan quazi
 
 contact me via Email Faizii.official@gmail.com
+
+<!-- cat getIPhonehealth.sh| openssl aes-128-cbc -a -salt -k "005479" > getIPhonehealth.sh.enc.005479 -->
